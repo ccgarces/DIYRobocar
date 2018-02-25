@@ -5,7 +5,7 @@ Created on Sun Feb 11 21:23:15 2018
 @author: ccgar
 """
 
-# testing feedback 360 serving to get the steering angle or the car
+# testing feedback 360 servo to get the steering angle or the car
 
 import RPi.GPIO as GPIO
 import time
